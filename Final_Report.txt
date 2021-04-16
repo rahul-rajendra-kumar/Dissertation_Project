@@ -1,0 +1,16 @@
+Abstract
+
+Innovations in Artificial Intelligence and Machine Learning has already proved its potential to human era in wide range of industries, 
+ranging from Aerodynamics and Astrophysics to Agriculture and Fishing. Higher the benefit, more the hunger towards exploiting the potential 
+further to all possible areas that could result in easing the human labour or difficulties. In this race, the biggest challenge faced is in 
+lack of labelled data for feeding the modern algorithm that improves the throughput. It is always expensive to generate new dataset for each 
+scenario of a Machine Learning Problem. It is a major concern of Medical sector where it is hard to get annotated data. But advanced machine 
+learning techniques could do wonders in medical industry, through aiding early detection of diseases. Furthermore, the vast number of images 
+and contents available in social-media could be trivial for various business use-cases[2]. But labelling this huge dataset is a tedious task. 
+Currently, in such cases, we rely on Unsupervised Learning where the confidence of the results is always below that of a Supervised Prediction. 
+This is where Self-Supervised Learning plays a vital role in improving this confidence within the limitation. Self-Supervised Learning is a 
+partial combination of Supervised and Unsupervised Learning methodologies where a Supervised Learning task is created out of an unlabelled 
+dataset[1].The labelled dataset required for training a model is generated artificially by understanding the requirements and complexities of 
+the problem. Here the useful representation of the data from unlabelled pool of data using self-supervision and then the representations are 
+fine-tuned using few labels for the downstream task.
+
